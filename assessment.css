@@ -13,7 +13,12 @@ button {
     color: #FDFFFF;
     border-color: #2E6DA4;
     border-style: none;
+    opacity:0.8s;
+}
+button:hover{
+     opacity:1s;
 }
 input {
     height: 20px;
 }
+     
